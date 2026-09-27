@@ -14,7 +14,12 @@
 
 ## 使用
 
-在 Releases 下载 `文本转Excel.exe`，双击即可运行，无需安装。
+在 [Releases](https://github.com/a663949987-alt/text-to-excel/releases/latest) 下载：
+
+- `Excel-win-x64.exe`：直接运行
+- `Excel-win-x64.zip`：下载更快，解压后运行其中的 `文本转Excel.exe`
+
+程序无需安装，适用于 64 位 Windows。
 
 ## 从源码构建
 
